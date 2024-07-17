@@ -1,0 +1,7 @@
+Python 3.10+
+Streamlit
+LangChain
+ChromaDB
+HuggingFace Hub
+PyPDFLoader
+Sentence Transformers

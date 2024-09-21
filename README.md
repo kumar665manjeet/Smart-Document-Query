@@ -1,4 +1,4 @@
-# Doc Searcher
+# Smart-Document-Query
 
 Doc Searcher is a Streamlit application that allows users to query a collection of PDF documents and retrieve precise answers to their queries. This application uses LangChain, HuggingFace, and ChromaDB for document loading, text splitting, embedding, and large language model interactions.
 
